@@ -1,13 +1,13 @@
 baseURL = 'https://docs.rndll.io'
 languageCode = 'en-us'
-title = 'Docs'
+title = 'docs.rndll'
 theme = 'hugo-book'
 
 enableGitInfo = true
 disableKinds = ['taxonomy','taxonomyTerm']
 
 [params]
-  BookTheme = 'auto'
+  BookTheme = 'light'
   BookToc = true
   BookRepo = 'https://github.com/rpxio/docs.rndll.io'
   BookCommitPath = 'commit'
