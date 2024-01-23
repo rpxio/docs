@@ -1,0 +1,28 @@
+body {
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+aside nav ul {
+  
+  a:hover {
+    color: #fff;
+    opacity: 1;
+  }
+
+}
+
+.book-menu {
+
+  a,
+  label {
+    color: var(--color-link);
+  }
+
+  a.active {
+    color: var(--body-font-color);
+    font-weight: bold;
+  }
+
+
+
+}

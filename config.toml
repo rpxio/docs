@@ -7,8 +7,8 @@ enableGitInfo = true
 disableKinds = ['taxonomy','taxonomyTerm']
 
 [params]
-  BookTheme = 'light'
-  BookToc = true
+  BookTheme = 'dark'
+  BookToc = false
   BookRepo = 'https://github.com/rpxio/docs'
   BookCommitPath = 'commit'
   BookEditPath = 'edit/main/'
