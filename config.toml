@@ -1,0 +1,17 @@
+baseURL = 'https://docs.rndll.io'
+languageCode = 'en-us'
+title = 'Docs'
+theme = 'hugo-book'
+
+enableGitInfo = true
+disableKinds = ['taxonomy','taxonomyTerm']
+
+[params]
+  BookTheme = 'auto'
+  BookToc = true
+  BookRepo = 'https://github.com/rpxio/docs.rndll.io'
+  BookCommitPath = 'commit'
+  BookEditPath = 'edit/master/docs.rndll.io'
+  BookDateFormat = 'Jan 2, 2006'
+  BookSearch = true
+  BookComments = false
