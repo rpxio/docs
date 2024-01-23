@@ -9,9 +9,9 @@ disableKinds = ['taxonomy','taxonomyTerm']
 [params]
   BookTheme = 'light'
   BookToc = true
-  BookRepo = 'https://github.com/rpxio/docs.rndll.io'
+  BookRepo = 'https://github.com/rpxio/docs'
   BookCommitPath = 'commit'
-  BookEditPath = 'edit/master/docs.rndll.io'
+  BookEditPath = 'edit/main/docs'
   BookDateFormat = 'Jan 2, 2006'
   BookSearch = true
   BookComments = false
