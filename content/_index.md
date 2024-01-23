@@ -4,8 +4,4 @@ title: Home
 
 # Welcome!
 
-## Astris ipse furtiva
-
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies.
+Here you'll find some documentation and thoughts about projects I'm working on. Feel free to contribute if you'd like. Enjoy!
